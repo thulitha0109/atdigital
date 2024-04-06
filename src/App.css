@@ -1,0 +1,17 @@
+.main-nav{
+  text-transform: uppercase;
+}
+
+.hero-text{
+  /* padding: 2em; */
+}
+
+.hero-gradient {
+  background: linear-gradient(260deg, #1CBDDD, #4DCA79);
+}
+
+@media screen and (min-width: 768px) {
+  .hero-text{
+    padding: 2em;
+  }
+}
