@@ -28,6 +28,11 @@ const Footer = () => {
             </ul>
           </div>
         </div>
+        <div className="md:w-1/2 mt-8 mx-auto border-t border-gray-300 py-4 text-center">
+          <a href="#" className="mr-2">Privacy Policy</a>
+          <span>| </span>
+          <a href="#">Terms & Conditions</a>
+        </div>
       </div>
     </footer>
   );
